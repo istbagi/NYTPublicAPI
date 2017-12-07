@@ -19,17 +19,6 @@
 #import "SWGGeoFacet.h"
 #import "SWGOrgFacet.h"
 #import "SWGPerFacet.h"
-@protocol SWGArticleWithCountTypeMedia;
-@class SWGArticleWithCountTypeMedia;
-@protocol SWGDesFacet;
-@class SWGDesFacet;
-@protocol SWGGeoFacet;
-@class SWGGeoFacet;
-@protocol SWGOrgFacet;
-@class SWGOrgFacet;
-@protocol SWGPerFacet;
-@class SWGPerFacet;
-
 
 
 @protocol SWGArticleWithCountType

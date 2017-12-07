@@ -17,18 +17,10 @@
 
 
 
-@protocol SWGInlineResponse400
+@protocol SWGDesFacet
 @end
 
-@interface SWGInlineResponse400 : SWGObject
+@interface SWGDesFacet : SWGObject
 
-
-@property(nonatomic) NSString *status;
-
-@property(nonatomic) NSString *varCopyright;
-
-@property(nonatomic) NSArray<NSString *> *errors;
-
-@property(nonatomic) NSArray<NSString *> *results;
 
 @end

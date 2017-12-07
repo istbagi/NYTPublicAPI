@@ -18,16 +18,6 @@
 #import "SWGGeoFacet.h"
 #import "SWGOrgFacet.h"
 #import "SWGPerFacet.h"
-@protocol SWGDesFacet;
-@class SWGDesFacet;
-@protocol SWGGeoFacet;
-@class SWGGeoFacet;
-@protocol SWGOrgFacet;
-@class SWGOrgFacet;
-@protocol SWGPerFacet;
-@class SWGPerFacet;
-
-
 
 @protocol SWGArticle
 @end
